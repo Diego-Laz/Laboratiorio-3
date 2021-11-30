@@ -54,6 +54,8 @@ Para empezar a realizar el circuito en tinkercad debemos extraer de la barra de 
 -Procedemos a medir el voltaje de cada uno de los nodos.
 
 ![image](https://user-images.githubusercontent.com/93835463/143977305-d0d700bb-827d-4e0a-b1fd-b05b8a4ec167.png)
+![image](https://user-images.githubusercontent.com/93835463/143986023-40801c87-fd7f-4105-90a4-7eab9aaaf641.png)
+
 
 -Proteus:
 
