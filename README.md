@@ -87,6 +87,10 @@ Como medir voltaje en nodos en Proteus
 
 https://www.youtube.com/watch?v=maZqAk7H0lQ
 
+Como resolver un circuito mediante el metodo de nodos
+
+https://www.youtube.com/watch?v=NrCkJrFPvCQ
+
 CONCLUSIONES:
 
 -Los valores de las corrientes obtenidass por el analizis de nodos son bastante aproximados a los valores sumulados y experimentales. 
