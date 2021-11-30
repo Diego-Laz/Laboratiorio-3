@@ -68,11 +68,24 @@ Para empezar a realizar el circuito en tinkercad debemos extraer de la barra de 
 -Procedemos a conectar los voltimetros para medir cada uno de los nodos
 
 ![image](https://user-images.githubusercontent.com/93835463/143977985-742fc974-9d12-4353-b753-3679bf410714.png)
+![image](https://user-images.githubusercontent.com/93835463/143982661-8d8fc32e-87f3-435d-bba2-8fa9dce33c5b.png)
+
+
 
 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR:
+![image](https://user-images.githubusercontent.com/93835463/143981486-22fe2c03-a988-44de-988f-e2090aa241f5.png)
+![image](https://user-images.githubusercontent.com/93835463/143982899-b52c53a0-cee1-439b-a0d7-332ae2c1ed4b.png)
+
 
 VIDEOS:
 
+Como medir voltaje en nodos en Tinkercad
+
+https://www.youtube.com/watch?v=Qfc7SbzJ920
+
+Como medir voltaje en nodos en Proteus
+
+https://www.youtube.com/watch?v=maZqAk7H0lQ
 
 CONCLUSIONES:
 
